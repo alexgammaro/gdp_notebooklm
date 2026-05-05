@@ -8,7 +8,8 @@
 > https://www.youtube.com/watch?v=AQbnPD10hJM  
 - **Engenharia de Prompts e "Cicatrizes":**
 > Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). O mercado valoriza profissionais que mostram o raciocínio por trás dos resultados!
-- **Miniguia de Estudo (Entrega Final):** Apresente o resultado final consolidado, que deve conter:
->  1. Resumos estruturados do assunto;  
->  2. Um glossário com os principais conceitos aprendidos;  
->  3. Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.  
+- **Miniguia de Estudo (Entrega Final):**
+> Apresente o resultado final consolidado, que deve conter:
+> - Resumos estruturados do assunto;
+> - Um glossário com os principais conceitos aprendidos;
+> - Um conjunto de prompts reutilizáveis que possam apoiar futuras revisões sobre o tema.
