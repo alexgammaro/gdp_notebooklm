@@ -1,7 +1,7 @@
 # IBM Guardium Data Protection no NotebookLM
 
 - **Contexto e Objetivos:**
-> Elaboração de um NotebookLM contendo materiais e informação sobre a solução de Segurança da Informação e Proteção de Dados que venho trabalhando em um grande cliente.
+> Elaboração de um NotebookLM contendo materiais e informações sobre a solução de Segurança da Informação e Proteção de Dados que venho trabalhando em um grande cliente.
 - **Curadoria de Fontes:**
 > https://www.ibm.com/products/guardium  
 > https://www.ibm.com/docs/en/gdp/12.x   
